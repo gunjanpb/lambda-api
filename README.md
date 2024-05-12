@@ -30,6 +30,9 @@ gunjan@FocalUbuntu:~/python workspace/lambda-api$ curl $api_route/whatever
 gunjan@FocalUbuntu:~/python workspace/lambda-api$ 
 ```
 
+A demo is available at https://rzyq4xmmvg.execute-api.ap-south-1.amazonaws.com/v1/list-bucket-content
+
+
 ## Tear down
 > terraform destroy
 
